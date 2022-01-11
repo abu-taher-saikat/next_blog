@@ -2,6 +2,8 @@ import Head from 'next/head'
 import Image from 'next/image'
 import styles from '../styles/Home.module.css'
 export default function Home() {
+  mdabutahersaikat@gmail.com
+  01790092627
   return (
     <div className={styles.container}>
       <Head>
